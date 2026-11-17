@@ -3,26 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matiasvdb&label=Profile%20views&color=0e75b6&style=flat" alt="matiasvdb" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mativanderbeken" target="blank"><img src="https://img.shields.io/twitter/follow/mativanderbeken?logo=twitter&style=for-the-badge" alt="mativanderbeken" /></a> </p>
-
 <p> <img align="right" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ef0dce32-6f0b-4271-8e8e-2123c92d6b98/ddzjt7j-762e9c28-33f4-4361-9ba4-19f62d0f8f75.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VmMGRjZTMyLTZmMGItNDI3MS04ZThlLTIxMjNjOTJkNmI5OFwvZGR6anQ3ai03NjJlOWMyOC0zM2Y0LTQzNjEtOWJhNC0xOWY2MmQwZjhmNzUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IkvXEuKSic9v4_vNzqZkXflJqErTiMFIziCee6bFspU" width="400" height ="300" </p>
 
 <p> &nbsp; &nbsp; <p>
 
-- 🌱 I’m currently learning **React, GO & MongoDB**
-
-- 💬 Ask me about **PHP and .NET**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **matiasvdb@hotmail.com**
 
 - ⚡ Fun fact **Love F1 🏎🏁**
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mativanderbeken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mativanderbeken" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/matias van der beken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matias van der beken" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/matias-ezequiel-van-der-beken-23b1bb165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matias van der beken" height="30" width="40" /></a>
 <a href="https://instagram.com/matiasvanderbeken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matiasvanderbeken" height="30" width="40" /></a>
 </p>
 
